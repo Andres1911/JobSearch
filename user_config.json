@@ -1,0 +1,89 @@
+{
+  "personal_info": {
+    "name": "Andres Gonzalez",
+    "email": "juan.gonzalezreina@mail.mcgill.ca",
+    "phone": "(438) 508-5071",
+    "linkedin": "linkedin.com/in/andres-gonzalez-reina",
+    "gpa": "3.88",
+    "university": "McGill University",
+    "degree": "Co-op Software Engineering"
+  },
+
+  "job_search": {
+    "keywords": "software+intern",
+    "location": "Canada",
+    "experience_level": "1",
+    "job_type": "I",
+    "max_pages": 5
+  },
+
+  "filtering": {
+    "reject_keywords": [
+      "master-level",
+      "master level",
+      "masters level",
+      "phd",
+      "ph.d",
+      "doctoral",
+      "doctorate",
+      "ms)",
+      "(ms",
+      "ms ",
+      " ms",
+      "graduate level",
+      "postgraduate",
+      "post-graduate",
+      "advanced degree",
+      "graduate student",
+      "masters required",
+      "phd required",
+      "senior",
+      "principal",
+      "lead developer",
+      "team lead"
+    ],
+
+    "require_keywords": [
+      "intern",
+      "co-op",
+      "coop",
+      "internship",
+      "student",
+      "entry level"
+    ]
+  },
+
+  "cover_letter": {
+    "forbidden_phrases": [
+      "aligns with my background",
+      "perfectly aligns with",
+      "I am drawn to",
+      "I'm drawn to",
+      "I'm eager to",
+      "eager to",
+      "resonates with me",
+      "I look forward to the opportunity",
+      "innovative solutions",
+      "broad user base",
+      "innovative spirit",
+      "always"
+    ],
+
+    "max_tokens": 1200,
+    "temperature": 0.7,
+    "max_words": 300
+  },
+
+  "scraping": {
+    "delay_between_requests": 2,
+    "max_attempts": 3,
+    "timeout_seconds": 10,
+    "cache_duration_days": 730
+  },
+
+  "openai": {
+    "model": "gpt-4o",
+    "company_research_max_tokens": 1000
+  }
+}
+

@@ -1,0 +1,40 @@
+{
+  "required_keywords": [
+    "Co-op",
+    "Internship",
+    "Intern",
+    "Stagiaire",
+    "Stage",
+    "Apprentissage",
+    "Formation"
+  ],
+  "optional_keywords": [
+    "Backend",
+    "Software",
+    "Data",
+    "ML",
+    "AI",
+    "Development",
+    "Engineer",
+    "Developer",
+    "Programming",
+    "Python",
+    "Java",
+    "JavaScript",
+    "Logiciel",
+    "Développement",
+    "Ingénieur",
+    "Développeur",
+    "Programmation",
+    "Informatique",
+    "Technologie",
+    "Numérique",
+    "Tech",
+    "Données",
+    "Intelligence Artificielle",
+    "Machine Learning",
+    "Apprentissage Automatique"
+  ],
+
+  "main_keyword": "software intern"
+}
